@@ -60,12 +60,7 @@ Relational database project with 10,000+ records. Built a backend recommendation
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Primavat&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primavat&layout=compact&hide_border=true" height="160" />
-</p>
-
-<img src="https://streak-stats.demolab.com/?user=Primavat&hide_border=true" height="160" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primavat&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
