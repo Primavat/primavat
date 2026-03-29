@@ -57,11 +57,12 @@ Relational database project with 10,000+ records. Built a backend recommendation
 - Applied Machine Learning integrations
 
 ---
-
-## GitHub Stats
-
+## Github info
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primavat&show_icons=true&theme=tokyonight)
----
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Primavat&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Primavat&theme=tokyo-night)
 
 ## Connect
 
