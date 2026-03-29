@@ -1,4 +1,4 @@
-# Priyanshu Nimavat
+# Hi Priyanshu Nimavat
 
 **B.Tech Computer Engineering · PDEU · CGPA 9.2**
 
@@ -58,7 +58,7 @@ Relational database project with 10,000+ records. Built a backend recommendation
 
 ---
 ## Github info
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primavat&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primavat&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Primavat&theme=tokyonight)
 
