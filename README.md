@@ -60,8 +60,7 @@ Relational database project with 10,000+ records. Built a backend recommendation
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primavat&cache_seconds=1800)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primavat&show_icons=true&theme=tokyonight)
 ---
 
 ## Connect
