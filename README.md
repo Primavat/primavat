@@ -1,87 +1,74 @@
-# Hi, I'm Priyanshu Nimavat 👋
+# Priyanshu Nimavat
 
-🎓 B.Tech Computer Engineering @ PDEU (CGPA: 9.2)  
-💻 Backend-focused Developer | DSA | System Design  
-🚀 Interested in scalable systems and applied AI integrations  
+**B.Tech Computer Engineering · PDEU · CGPA 9.2**
+
+Backend-focused developer with a strong foundation in system design, data structures, and applied AI integrations. I build scalable, well-structured systems and enjoy working across the full stack when needed.
 
 ---
 
-## 🛠 Tech Stack
+## About Me
 
-**Languages:** C, C++, Python, JavaScript  
-**Backend / BaaS:** Node.js, Express, Supabase  
-**Databases:** MySQL, PostgreSQL  
-**Tools & Frameworks:** Flutter, Git, Vercel  
-**Core CS:** Data Structures & Algorithms, OOP, System Design  
+- 🎯 Focused on backend engineering, API design, and scalable architecture
+- 🤖 Exploring applied AI integrations and emerging technologies like quantum computing (Qiskit)
+- 🏆 Hackathon builder — shipped real products under time pressure
+- 📈 Continuously improving in competitive programming and system design
+
+---
+
+## Tech Stack
+
+**Languages:** C, C++, Python, JavaScript
+**Backend / BaaS:** Node.js, Express, Supabase
+**Databases:** MySQL, PostgreSQL
+**Tools & Frameworks:** Flutter, Git, Vercel
+**Core CS:** Data Structures & Algorithms, OOP, System Design
 **Emerging:** Qiskit, AI APIs (Llama, OCR)
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔹 Monestry360 (Smart India Hackathon 2025)
-- Built full-stack web platform for Sikkim monasteries
-- Developed **AI chatbot (Llama API + Node.js backend)**
-- Integrated frontend with backend & deployed via Vercel
-- Focused on debugging AI-generated code & handling security issues
+**Monestry360** · *Smart India Hackathon 2025*
+Full-stack web platform built for Sikkim monasteries. Developed an AI chatbot using Llama API with a Node.js backend, handled deployment on Vercel, and resolved security and integration challenges across the stack.
 
----
+**CareBuddy** · *Healthcare Platform*
+Family and personal health monitoring system with REST APIs for secure data management. Includes mood tracking, diet plans, dashboards, an AI chatbot, hospital locator, and a caretaker management module.
 
-### 🔹 CareBuddy (Healthcare Platform)
-- Designed full-stack health monitoring system (family + personal)
-- Built REST APIs for secure health data management
-- Features: reminders, mood tracking, diet plans, dashboards
-- Integrated **AI chatbot + hospital locator + caretaker system**
+**BATVAARA** · *Fintech App — 2nd Place, BREACH Hackathon*
+Flutter-based expense splitting app backed by Supabase. Modelled transactions as a graph (users as nodes, expenses as edges) and applied Greedy + BFS algorithms to minimize the number of settlements. Integrated UPI payments and Tesseract OCR for bill scanning.
+
+**Movie Recommendation System**
+Relational database project with 10,000+ records. Built a backend recommendation engine using optimised SQL queries, with a focus on schema design in BCNF and query performance.
 
 ---
 
-### 🔹 BATVAARA (Fintech App - Hackathon Winner 🥈)
-- Flutter-based expense splitting app using Supabase
-- Modeled transactions as graphs (users = nodes, expenses = edges)
-- Applied **Greedy + BFS algorithms to minimize transactions**
-- Integrated UPI payments + OCR (Tesseract) for bill scanning
+## Achievements
+
+- 🥈 2nd Place — BREACH Fintech Hackathon, PDEU
+- 🏅 Honorary Mention — DEV:Init Hackathon
+- 📜 NVIDIA Deep Learning Institute Certification
 
 ---
 
-### 🔹 Movie Recommendation System
-- Designed normalized relational DB (10,000+ records)
-- Built backend recommendation system using SQL queries
-- Focus: query optimization & schema design (BCNF)
+## Currently Learning
+
+- Advanced DSA
+- Backend System Design — scalability, caching, distributed systems
+- Cybersecurity
 
 ---
 
-## 🧠 DSA & Problem Solving
-- Active in coding contests (beginner → improving)
-- Strong foundation in arrays, recursion, DP (learning phase)
-- Focused on writing optimized and clean logic
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Primavat&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primavat&layout=compact&hide_border=true" height="160" />
+</p>
+
+<img src="https://streak-stats.demolab.com/?user=Primavat&hide_border=true" height="160" />
 
 ---
 
-## 🏆 Achievements
-- 🥈 2nd Place – BREACH Fintech Hackathon (PDEU)
-- 🏅 Honorary Mention – DEV:Init Hackathon
-- 📜 NVIDIA Deep Learning Certification
+## Connect
 
----
-
-## 📚 Currently Learning
-- Advanced DSA & Competitive Programming
-- Backend System Design (scalability, APIs)
-- Applied Machine Learning integrations
-
----
-
-## 📫 Connect with Me
-- 📧 Email: priyanshu.nimavat45@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-nimavat-bb4ba8324  
-- 💻 GitHub: https://github.com/Primavat  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primavat&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Primavat&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Primavat)
+📧 priyanshu.nimavat45@gmail.com · [LinkedIn](https://www.linkedin.com/in/priyanshu-nimavat-bb4ba8324) · [GitHub](https://github.com/Primavat)
