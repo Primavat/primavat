@@ -1,4 +1,4 @@
-# Hi Priyanshu Nimavat
+# 👋 Hi, I am Priyanshu Nimavat
 
 **B.Tech Computer Engineering · PDEU · CGPA 9.2**
 
@@ -6,43 +6,50 @@ Backend-focused developer with a strong foundation in system design, data struct
 
 ---
 
-## About Me
+## 🙋 About Me
 
 - 🎯 Focused on backend engineering, API design, and scalable architecture
-- 🤖 Exploring applied AI integrations and emerging technologies like quantum computing (Qiskit)
+- 🤖 Exploring emerging technologies like quantum computing (Qiskit)
 - 🏆 Hackathon builder — shipped real products under time pressure
 - 📈 Continuously improving in competitive programming and system design
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** C, C++, Python, JavaScript
-**Backend / BaaS:** Node.js, Express, Supabase
-**Databases:** MySQL, PostgreSQL
-**Tools & Frameworks:** Flutter, Git, Vercel
-**Core CS:** Data Structures & Algorithms, OOP, System Design
-**Emerging:** Qiskit, AI APIs (Llama, OCR)
+**Languages:**
+[🇨 C](https://www.open-std.org/jtc1/sc22/wg14/) &nbsp;
+[⚙️ C++](https://isocpp.org/) &nbsp;
+[🐍 Python](https://www.python.org/) &nbsp;
+[🌐 JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Backend / BaaS:**
+[🟩 Node.js](https://nodejs.org/) &nbsp;
+[🚂 Express](https://expressjs.com/) &nbsp;
+[⚡ Supabase](https://supabase.com/)
+
+**Databases:**
+[🐬 MySQL](https://www.mysql.com/) &nbsp;
+[🐘 PostgreSQL](https://www.postgresql.org/)
+
+**Tools & Frameworks:**
+[💙 Flutter](https://flutter.dev/) &nbsp;
+[🔀 Git](https://git-scm.com/) &nbsp;
+[▲ Vercel](https://vercel.com/)
+
+**Core CS:**
+[🧩 DSA](https://en.wikipedia.org/wiki/Data_structure) &nbsp;
+[📦 OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) &nbsp;
+[🏗️ System Design](https://en.wikipedia.org/wiki/Systems_design)
+
+**Emerging:**
+[⚛️ Qiskit](https://qiskit.org/) &nbsp;
+[🦙 Llama](https://ollama.com/library/llama3) &nbsp;
+[🔍 OCR](https://en.wikipedia.org/wiki/Optical_character_recognition)
 
 ---
 
-## Projects
-
-**Monestry360** · *Smart India Hackathon 2025*
-Full-stack web platform built for Sikkim monasteries. Developed an AI chatbot using Llama API with a Node.js backend, handled deployment on Vercel, and resolved security and integration challenges across the stack.
-
-**CareBuddy** · *Healthcare Platform*
-Family and personal health monitoring system with REST APIs for secure data management. Includes mood tracking, diet plans, dashboards, an AI chatbot, hospital locator, and a caretaker management module.
-
-**BATVAARA** · *Fintech App — 2nd Place, BREACH Hackathon*
-Flutter-based expense splitting app backed by Supabase. Modelled transactions as a graph (users as nodes, expenses as edges) and applied Greedy + BFS algorithms to minimize the number of settlements. Integrated UPI payments and Tesseract OCR for bill scanning.
-
-**Movie Recommendation System**
-Relational database project with 10,000+ records. Built a backend recommendation engine using optimised SQL queries, with a focus on schema design in BCNF and query performance.
-
----
-
-## Achievements
+## 🏆 Achievements
 
 - 🥈 2nd Place — BREACH Fintech Hackathon, PDEU
 - 🏅 Honorary Mention — DEV:Init Hackathon
@@ -50,20 +57,23 @@ Relational database project with 10,000+ records. Built a backend recommendation
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Advanced DSA & Competitive Programming
 - Backend System Design — scalability, caching, distributed systems
-- Applied Machine Learning integrations
 
 ---
-## Github info
+
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primavat&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Primavat&theme=tokyonight)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Primavat&theme=tokyo-night)
 
-## Connect
+---
 
-📧 priyanshu.nimavat45@gmail.com · [LinkedIn](https://www.linkedin.com/in/priyanshu-nimavat-bb4ba8324) · [GitHub](https://github.com/Primavat)
+## 🤝 Connect with Me !
+
+- 📧 [priyanshu.nimavat45@gmail.com](mailto:priyanshu.nimavat45@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-nimavat)
+- 💻 [GitHub](https://github.com/Primavat)
