@@ -2,7 +2,7 @@
 
 **B.Tech Computer Engineering · PDEU · CGPA 9.2**
 
-Backend-focused developer with a strong foundation in system design, data structures, and applied AI integrations. I build scalable, well-structured systems and enjoy working across the full stack when needed.
+Backend-focused developer along with deep interest and understanding of frontend developmen with a strong foundation in system design, data structures, and applied AI integrations. I build scalable, well-structured systems and enjoy working across the full stack when needed. 
 
 ---
 
